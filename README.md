@@ -2,3 +2,10 @@
 This repo is for testing, playing, bashing and complaining.  Have fun!
 
 git update lets see if it works
+
+
+![](yay.jpg)
+
+## Great Cities
+* Seattle
+* 
